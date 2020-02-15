@@ -1,6 +1,7 @@
 # Project-Euler
 Project Euler solutions in Java
 
+List of solved problems
 | ID | Problem |
 | --- | --- |
 | 1 | Multiples of 3 and 5 |
@@ -12,3 +13,4 @@ Project Euler solutions in Java
 | 7 | 10001st prime |
 | 8 | Largest product in a series |
 | 9 | Special Pythagorean triplet |
+| 10 | Summation of primes
