@@ -15,3 +15,4 @@ List of solved problems
 | 9 | Special Pythagorean triplet |
 | 10 | Summation of primes
 | 11 | Largest product in a grid |
+| 12 | Highly divisible triangular number |
