@@ -17,3 +17,4 @@ List of solved problems
 | 11 | Largest product in a grid |
 | 12 | Highly divisible triangular number |
 | 13 | Large sum |
+| 14 | Longest Collatz sequence |
