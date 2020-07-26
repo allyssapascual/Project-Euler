@@ -18,3 +18,4 @@ List of solved problems
 | 12 | Highly divisible triangular number | Java |
 | 13 | Large sum | Java |
 | 14 | Longest Collatz sequence | Java |
+| 15 | Lattice paths | C# |
