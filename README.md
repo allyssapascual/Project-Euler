@@ -4,7 +4,7 @@ Project Euler solutions in Java and C#
 List of solved problems
 | ID | Problem | Language |
 | --- | --- | --- |
-| 1 | Multiples of 3 and 5 | Java |
+| 1 | [ Multiples of 3 and 5 ](https://github.com/allyssapascual/Project-Euler/tree/master/multiples) | Java |
 | 2 | Even Fibonacci numbers | Java |
 | 3 | Largest prime factor | Java |
 | 4 | Largest palindrome product | Java |
