@@ -7,7 +7,7 @@ List of solved problems
 | 1 | [Multiples of 3 and 5](https://github.com/allyssapascual/Project-Euler/tree/master/multiples) | Java |
 | 2 | [Even Fibonacci numbers](https://github.com/allyssapascual/Project-Euler/tree/master/fibonacci) | Java |
 | 3 | [Largest prime factor](https://github.com/allyssapascual/Project-Euler/tree/master/largest-prime-factor) | Java |
-| 4 | [Largest palindrome product(https://github.com/allyssapascual/Project-Euler/tree/master/largest-palindrome-product)] | Java |
+| 4 | [Largest palindrome product](https://github.com/allyssapascual/Project-Euler/tree/master/largest-palindrome-product) | Java |
 | 5 | [Smallest multiple](https://github.com/allyssapascual/Project-Euler/tree/master/smallest-multiple) | Java |
 | 6 | [Sum square difference](https://github.com/allyssapascual/Project-Euler/tree/master/sum-square-difference) | Java |
 | 7 | [10001st prime](https://github.com/allyssapascual/Project-Euler/tree/master/10001-prime) | Java |
