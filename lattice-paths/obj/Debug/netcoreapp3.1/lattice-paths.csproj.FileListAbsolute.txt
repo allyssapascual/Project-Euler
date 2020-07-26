@@ -1,0 +1,11 @@
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\lattice-paths\bin\Debug\netcoreapp3.1\lattice-paths.exe
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\lattice-paths\bin\Debug\netcoreapp3.1\lattice-paths.deps.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\lattice-paths\bin\Debug\netcoreapp3.1\lattice-paths.runtimeconfig.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\lattice-paths\bin\Debug\netcoreapp3.1\lattice-paths.runtimeconfig.dev.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\lattice-paths\bin\Debug\netcoreapp3.1\lattice-paths.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\lattice-paths\bin\Debug\netcoreapp3.1\lattice-paths.pdb
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\lattice-paths\obj\Debug\netcoreapp3.1\lattice-paths.csprojAssemblyReference.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\lattice-paths\obj\Debug\netcoreapp3.1\lattice-paths.AssemblyInfoInputs.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\lattice-paths\obj\Debug\netcoreapp3.1\lattice-paths.AssemblyInfo.cs
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\lattice-paths\obj\Debug\netcoreapp3.1\lattice-paths.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\lattice-paths\obj\Debug\netcoreapp3.1\lattice-paths.pdb
