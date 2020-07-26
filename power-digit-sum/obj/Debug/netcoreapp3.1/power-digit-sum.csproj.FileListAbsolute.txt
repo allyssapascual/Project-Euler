@@ -1,0 +1,11 @@
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\power-digit-sum\bin\Debug\netcoreapp3.1\power-digit-sum.exe
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\power-digit-sum\bin\Debug\netcoreapp3.1\power-digit-sum.deps.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\power-digit-sum\bin\Debug\netcoreapp3.1\power-digit-sum.runtimeconfig.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\power-digit-sum\bin\Debug\netcoreapp3.1\power-digit-sum.runtimeconfig.dev.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\power-digit-sum\bin\Debug\netcoreapp3.1\power-digit-sum.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\power-digit-sum\bin\Debug\netcoreapp3.1\power-digit-sum.pdb
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\power-digit-sum\obj\Debug\netcoreapp3.1\power-digit-sum.csprojAssemblyReference.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\power-digit-sum\obj\Debug\netcoreapp3.1\power-digit-sum.AssemblyInfoInputs.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\power-digit-sum\obj\Debug\netcoreapp3.1\power-digit-sum.AssemblyInfo.cs
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\power-digit-sum\obj\Debug\netcoreapp3.1\power-digit-sum.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\power-digit-sum\obj\Debug\netcoreapp3.1\power-digit-sum.pdb
