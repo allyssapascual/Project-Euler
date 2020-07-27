@@ -1,0 +1,11 @@
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\number-letter-counts\obj\Debug\netcoreapp3.1\number-letter-counts.csprojAssemblyReference.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\number-letter-counts\obj\Debug\netcoreapp3.1\number-letter-counts.AssemblyInfoInputs.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\number-letter-counts\obj\Debug\netcoreapp3.1\number-letter-counts.AssemblyInfo.cs
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\number-letter-counts\bin\Debug\netcoreapp3.1\number-letter-counts.exe
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\number-letter-counts\bin\Debug\netcoreapp3.1\number-letter-counts.deps.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\number-letter-counts\bin\Debug\netcoreapp3.1\number-letter-counts.runtimeconfig.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\number-letter-counts\bin\Debug\netcoreapp3.1\number-letter-counts.runtimeconfig.dev.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\number-letter-counts\bin\Debug\netcoreapp3.1\number-letter-counts.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\number-letter-counts\bin\Debug\netcoreapp3.1\number-letter-counts.pdb
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\number-letter-counts\obj\Debug\netcoreapp3.1\number-letter-counts.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\number-letter-counts\obj\Debug\netcoreapp3.1\number-letter-counts.pdb
