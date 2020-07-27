@@ -1,7 +1,7 @@
 # Project-Euler
 Project Euler solutions in Java and C#
 
-List of solved problems
+List of problems
 | ID | Problem | Language |
 | --- | --- | --- |
 | 1 | [Multiples of 3 and 5](https://github.com/allyssapascual/Project-Euler/tree/master/multiples) | Java |
