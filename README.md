@@ -20,4 +20,4 @@ List of solved problems
 | 14 | [Longest Collatz sequence](https://github.com/allyssapascual/Project-Euler/tree/master/longest-collatz-sequence) | Java |
 | 15 | [Lattice paths](https://github.com/allyssapascual/Project-Euler/tree/master/lattice-paths) | C# |
 | 16 | [Power digit sum](https://github.com/allyssapascual/Project-Euler/tree/master/power-digit-sum) | C# |
-| 16 | [Number letter counts](https://github.com/allyssapascual/Project-Euler/tree/master/number-letter-counts) | C# |
+| 17 | [Number letter counts](https://github.com/allyssapascual/Project-Euler/tree/master/number-letter-counts) | C# |
