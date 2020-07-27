@@ -21,3 +21,5 @@ List of solved problems
 | 15 | [Lattice paths](https://github.com/allyssapascual/Project-Euler/tree/master/lattice-paths) | C# |
 | 16 | [Power digit sum](https://github.com/allyssapascual/Project-Euler/tree/master/power-digit-sum) | C# |
 | 17 | [Number letter counts](https://github.com/allyssapascual/Project-Euler/tree/master/number-letter-counts) | C# |
+| 18 | Maximum path sum I | C# |
+| 19 | Counting Sundays | C# |
