@@ -1,0 +1,11 @@
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\counting-sundays\obj\Debug\netcoreapp3.1\counting-sundays.csprojAssemblyReference.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\counting-sundays\obj\Debug\netcoreapp3.1\counting-sundays.AssemblyInfoInputs.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\counting-sundays\obj\Debug\netcoreapp3.1\counting-sundays.AssemblyInfo.cs
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\counting-sundays\bin\Debug\netcoreapp3.1\counting-sundays.exe
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\counting-sundays\bin\Debug\netcoreapp3.1\counting-sundays.deps.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\counting-sundays\bin\Debug\netcoreapp3.1\counting-sundays.runtimeconfig.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\counting-sundays\bin\Debug\netcoreapp3.1\counting-sundays.runtimeconfig.dev.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\counting-sundays\bin\Debug\netcoreapp3.1\counting-sundays.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\counting-sundays\bin\Debug\netcoreapp3.1\counting-sundays.pdb
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\counting-sundays\obj\Debug\netcoreapp3.1\counting-sundays.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\counting-sundays\obj\Debug\netcoreapp3.1\counting-sundays.pdb

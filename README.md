@@ -22,4 +22,4 @@ List of solved problems
 | 16 | [Power digit sum](https://github.com/allyssapascual/Project-Euler/tree/master/power-digit-sum) | C# |
 | 17 | [Number letter counts](https://github.com/allyssapascual/Project-Euler/tree/master/number-letter-counts) | C# |
 | 18 | Maximum path sum I | C# |
-| 19 | Counting Sundays | C# |
+| 19 | [Counting Sundays](https://github.com/allyssapascual/Project-Euler/tree/master/counting-sundays) | C# |
