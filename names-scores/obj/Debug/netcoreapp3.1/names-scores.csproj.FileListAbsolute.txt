@@ -1,0 +1,11 @@
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\names-scores\obj\Debug\netcoreapp3.1\names-scores.csprojAssemblyReference.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\names-scores\obj\Debug\netcoreapp3.1\names-scores.AssemblyInfoInputs.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\names-scores\obj\Debug\netcoreapp3.1\names-scores.AssemblyInfo.cs
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\names-scores\bin\Debug\netcoreapp3.1\names-scores.exe
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\names-scores\bin\Debug\netcoreapp3.1\names-scores.deps.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\names-scores\bin\Debug\netcoreapp3.1\names-scores.runtimeconfig.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\names-scores\bin\Debug\netcoreapp3.1\names-scores.runtimeconfig.dev.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\names-scores\bin\Debug\netcoreapp3.1\names-scores.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\names-scores\bin\Debug\netcoreapp3.1\names-scores.pdb
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\names-scores\obj\Debug\netcoreapp3.1\names-scores.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\names-scores\obj\Debug\netcoreapp3.1\names-scores.pdb
