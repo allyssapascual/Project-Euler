@@ -1,0 +1,11 @@
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\amicable-number\bin\Debug\netcoreapp3.1\amicable-number.exe
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\amicable-number\bin\Debug\netcoreapp3.1\amicable-number.deps.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\amicable-number\bin\Debug\netcoreapp3.1\amicable-number.runtimeconfig.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\amicable-number\bin\Debug\netcoreapp3.1\amicable-number.runtimeconfig.dev.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\amicable-number\bin\Debug\netcoreapp3.1\amicable-number.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\amicable-number\bin\Debug\netcoreapp3.1\amicable-number.pdb
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\amicable-number\obj\Debug\netcoreapp3.1\amicable-number.csprojAssemblyReference.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\amicable-number\obj\Debug\netcoreapp3.1\amicable-number.AssemblyInfoInputs.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\amicable-number\obj\Debug\netcoreapp3.1\amicable-number.AssemblyInfo.cs
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\amicable-number\obj\Debug\netcoreapp3.1\amicable-number.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\amicable-number\obj\Debug\netcoreapp3.1\amicable-number.pdb
