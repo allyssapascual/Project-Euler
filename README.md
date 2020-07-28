@@ -21,7 +21,7 @@ List of problems
 | 15 | [Lattice paths](https://github.com/allyssapascual/Project-Euler/tree/master/lattice-paths) | C# |
 | 16 | [Power digit sum](https://github.com/allyssapascual/Project-Euler/tree/master/power-digit-sum) | C# |
 | 17 | [Number letter counts](https://github.com/allyssapascual/Project-Euler/tree/master/number-letter-counts) | C# |
-| 18 | Maximum path sum I | C# |
+| 18 | Maximum path sum I |  |
 | 19 | [Counting sundays](https://github.com/allyssapascual/Project-Euler/tree/master/counting-sundays) | C# |
 | 20 | [Factorial digit sum](https://github.com/allyssapascual/Project-Euler/tree/master/factorial-digit-sum) | C# |
 | 21 | [Amicable numbers](https://github.com/allyssapascual/Project-Euler/tree/master/amicable-numbers) | C# |
