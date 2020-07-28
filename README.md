@@ -24,3 +24,4 @@ List of problems
 | 18 | Maximum path sum I | C# |
 | 19 | [Counting sundays](https://github.com/allyssapascual/Project-Euler/tree/master/counting-sundays) | C# |
 | 20 | [Factorial digit sum](https://github.com/allyssapascual/Project-Euler/tree/master/factorial-digit-sum) | C# |
+| 21 | [Amicable numbers](https://github.com/allyssapascual/Project-Euler/tree/master/amicable-numbers) | C# |
