@@ -26,3 +26,4 @@ List of problems
 | 20 | [Factorial digit sum](https://github.com/allyssapascual/Project-Euler/tree/master/factorial-digit-sum) | C# |
 | 21 | [Amicable numbers](https://github.com/allyssapascual/Project-Euler/tree/master/amicable-numbers) | C# |
 | 22 | [Names scores](https://github.com/allyssapascual/Project-Euler/tree/master/names-scores) | C# |
+| 23 | [Non-abundant sums](https://github.com/allyssapascual/Project-Euler/tree/master/non-abundant-sums) | C# |
