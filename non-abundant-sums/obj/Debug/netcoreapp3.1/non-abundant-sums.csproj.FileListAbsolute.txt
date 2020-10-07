@@ -1,0 +1,11 @@
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\non-abundant-sums\bin\Debug\netcoreapp3.1\non-abundant-sums.exe
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\non-abundant-sums\bin\Debug\netcoreapp3.1\non-abundant-sums.deps.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\non-abundant-sums\bin\Debug\netcoreapp3.1\non-abundant-sums.runtimeconfig.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\non-abundant-sums\bin\Debug\netcoreapp3.1\non-abundant-sums.runtimeconfig.dev.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\non-abundant-sums\bin\Debug\netcoreapp3.1\non-abundant-sums.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\non-abundant-sums\bin\Debug\netcoreapp3.1\non-abundant-sums.pdb
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\non-abundant-sums\obj\Debug\netcoreapp3.1\non-abundant-sums.csprojAssemblyReference.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\non-abundant-sums\obj\Debug\netcoreapp3.1\non-abundant-sums.AssemblyInfoInputs.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\non-abundant-sums\obj\Debug\netcoreapp3.1\non-abundant-sums.AssemblyInfo.cs
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\non-abundant-sums\obj\Debug\netcoreapp3.1\non-abundant-sums.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\non-abundant-sums\obj\Debug\netcoreapp3.1\non-abundant-sums.pdb

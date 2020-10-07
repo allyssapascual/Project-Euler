@@ -27,3 +27,10 @@ List of problems
 | 21 | [Amicable numbers](https://github.com/allyssapascual/Project-Euler/tree/master/amicable-numbers) | C# |
 | 22 | [Names scores](https://github.com/allyssapascual/Project-Euler/tree/master/names-scores) | C# |
 | 23 | [Non-abundant sums](https://github.com/allyssapascual/Project-Euler/tree/master/non-abundant-sums) | C# |
+| 24 | Lexicographic Sums |  |
+| 25 | 1000-digit Fibonacci Number |  |
+| 26 | Reciprocal Cycles |  |
+| 27 | Quadratic Primes|  |
+| 28 | Number Spiral Diagonals |  |
+| 29 | Distinct Powers |  |
+| 30 | Digit Fifth Powers |  |
