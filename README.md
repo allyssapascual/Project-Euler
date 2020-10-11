@@ -33,5 +33,5 @@ List of problems
 | 27 | Quadratic Primes|  |
 | 28 | Number Spiral Diagonals |  |
 | 29 | Distinct Powers |  |
-| 30 | Digit Fifth Powers |  |
+| 30 | [Digit Fifth Powers](https://github.com/allyssapascual/Project-Euler/tree/master/digit-fifth-powers) | C# |
 | 31 | [Coin Sums](https://github.com/allyssapascual/Project-Euler/tree/master/coin-sums) | C# |
