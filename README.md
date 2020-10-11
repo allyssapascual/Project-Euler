@@ -28,7 +28,7 @@ List of problems
 | 22 | [Names scores](https://github.com/allyssapascual/Project-Euler/tree/master/names-scores) | C# |
 | 23 | [Non-abundant sums](https://github.com/allyssapascual/Project-Euler/tree/master/non-abundant-sums) | C# |
 | 24 | Lexicographic Sums |  |
-| 25 | 1000-digit Fibonacci Number |  |
+| 25 | [1000-digit Fibonacci Number](https://github.com/allyssapascual/Project-Euler/tree/master/non-abundant-sums) | C# |
 | 26 | Reciprocal Cycles |  |
 | 27 | Quadratic Primes|  |
 | 28 | Number Spiral Diagonals |  |
