@@ -1,0 +1,13 @@
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\obj\Debug\netcoreapp3.1\digit-fifth-powers.csprojAssemblyReference.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\obj\Debug\netcoreapp3.1\digit-fifth-powers.AssemblyInfoInputs.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\obj\Debug\netcoreapp3.1\digit-fifth-powers.AssemblyInfo.cs
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\obj\Debug\netcoreapp3.1\digit-fifth-powers.csproj.CoreCompileInputs.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\bin\Debug\netcoreapp3.1\digit-fifth-powers.exe
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\bin\Debug\netcoreapp3.1\digit-fifth-powers.deps.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\bin\Debug\netcoreapp3.1\digit-fifth-powers.runtimeconfig.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\bin\Debug\netcoreapp3.1\digit-fifth-powers.runtimeconfig.dev.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\bin\Debug\netcoreapp3.1\digit-fifth-powers.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\bin\Debug\netcoreapp3.1\digit-fifth-powers.pdb
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\obj\Debug\netcoreapp3.1\digit-fifth-powers.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\obj\Debug\netcoreapp3.1\digit-fifth-powers.pdb
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\digit-fifth-powers\obj\Debug\netcoreapp3.1\digit-fifth-powers.genruntimeconfig.cache
