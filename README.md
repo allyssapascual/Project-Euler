@@ -34,3 +34,4 @@ List of problems
 | 28 | Number Spiral Diagonals |  |
 | 29 | Distinct Powers |  |
 | 30 | Digit Fifth Powers |  |
+| 31 | [Coin Sums](https://github.com/allyssapascual/Project-Euler/tree/master/coin-sums) | C# |

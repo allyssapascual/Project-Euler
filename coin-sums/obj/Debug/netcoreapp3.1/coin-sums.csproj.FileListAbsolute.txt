@@ -1,0 +1,11 @@
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\coin-sums\obj\Debug\netcoreapp3.1\coin-sums.csprojAssemblyReference.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\coin-sums\obj\Debug\netcoreapp3.1\coin-sums.AssemblyInfoInputs.cache
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\coin-sums\obj\Debug\netcoreapp3.1\coin-sums.AssemblyInfo.cs
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\coin-sums\bin\Debug\netcoreapp3.1\coin-sums.exe
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\coin-sums\bin\Debug\netcoreapp3.1\coin-sums.deps.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\coin-sums\bin\Debug\netcoreapp3.1\coin-sums.runtimeconfig.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\coin-sums\bin\Debug\netcoreapp3.1\coin-sums.runtimeconfig.dev.json
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\coin-sums\bin\Debug\netcoreapp3.1\coin-sums.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\coin-sums\bin\Debug\netcoreapp3.1\coin-sums.pdb
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\coin-sums\obj\Debug\netcoreapp3.1\coin-sums.dll
+C:\Users\Allyssa Pascual\Documents\Github\Project-Euler\coin-sums\obj\Debug\netcoreapp3.1\coin-sums.pdb
